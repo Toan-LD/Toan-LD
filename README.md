@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm ToanLD</h1>
 <h3 align="center">I'm from VietNam </h3>
 <h3 align="center">I am improving my self-replenishment</h3>
-<h3>Tired now</h3>
-- 🔭 I’m currently working on [ECommerceMVC](https://github.com/Toan-LD/ECommerceMVC), [BookingWeb].(https://github.com/minhtriet03/BookingWeb) 
 
-- 🌱 I’m currently learning **ASP.Net, Lavarel and Sping Boot**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Toan-LD/Portfolio](https://github.com/Toan-LD/Portfolio)
+- 🌱 I’m currently learning **ASP.Net, Lavarel, Angular**
 
 - 📫 How to reach me **toanld392003@gmail.com**
 
