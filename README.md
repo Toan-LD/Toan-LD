@@ -53,32 +53,7 @@ I'm a passionate backend developer based in Vietnam, focused on building scalabl
 <br/>
 
 ## 📌 Featured Projects
-
-### 🛒 E-Commerce Platform — ASP.NET Core
-> A full-stack e-commerce web application with product management, shopping cart, and order processing.
-
-- **Tech:** ASP.NET Core MVC, SQL Server, Bootstrap, Entity Framework Core
-- **Highlights:** Authentication & authorization, Admin dashboard, RESTful API
-- 🔗 [View Repository](#)
-
----
-
-### 📚 Library Management System — Spring Boot
-> A backend system for managing books, members, and borrowing records with role-based access.
-
-- **Tech:** Spring Boot, MySQL, Spring Security, Hibernate
-- **Highlights:** JWT authentication, REST API, email notification module
-- 🔗 [View Repository](#)
-
----
-
-### 🌐 Blog Platform — Django
-> A simple content management platform with user authentication and markdown support.
-
-- **Tech:** Python, Django, SQLite, Bootstrap
-- **Highlights:** CRUD for posts, user registration & login, admin panel
-- 🔗 [View Repository](#)
-
+Updating...
 <br/>
 
 ## 📊 GitHub Stats
