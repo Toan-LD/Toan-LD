@@ -1,33 +1,112 @@
-<h1 align="center">Hi 👋, I'm ToanLD</h1>
-<h3 align="center">I'm from VietNam </h3>
-<h3 align="center">I am improving my self-replenishment</h3>
+<h1 align="center">👋 Hi, I'm Toan Le Duc</h1>
+<h3 align="center">Backend Developer · Vietnam 🇻🇳</h3>
 
-- 🌱 I’m currently learning **ASP.Net, Lavarel, Angular**
+<br/>
 
-- 📫 How to reach me **toanld392003@gmail.com**
+## 🧑‍💻 About Me
 
-- ⚡ Fun fact **I'm funny**
+I'm a passionate backend developer based in Vietnam, focused on building scalable and maintainable web applications. I enjoy tackling complex problems and continuously sharpening my engineering skills across multiple tech stacks.
 
-<h3 align="left">Connect with me:</h3>
+- 🎯 Currently deepening expertise in **ASP.NET Core**, **Spring Boot**, and **Django**
+- 🌱 Exploring system design, clean architecture, and RESTful API best practices
+- 💡 Interested in backend performance optimization and database design
+- 📫 Reach me at: **toanld392003@gmail.com**
+
+<br/>
+
+## 🚀 Career Goals
+
+> Build robust, production-ready backend systems and grow into a well-rounded software engineer capable of architecting solutions that scale.
+
+- Master enterprise-level backend development with **.NET Core** and **Spring Boot**
+- Gain hands-on experience with **cloud platforms** (AWS / Azure) and **containerization** (Docker, Kubernetes)
+- Contribute to open-source projects and collaborate with the developer community
+- Land a role as a **Backend Engineer** at a product-driven company
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Databases & Tools**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+<br/>
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Platform — ASP.NET Core
+> A full-stack e-commerce web application with product management, shopping cart, and order processing.
+
+- **Tech:** ASP.NET Core MVC, SQL Server, Bootstrap, Entity Framework Core
+- **Highlights:** Authentication & authorization, Admin dashboard, RESTful API
+- 🔗 [View Repository](#)
+
+---
+
+### 📚 Library Management System — Spring Boot
+> A backend system for managing books, members, and borrowing records with role-based access.
+
+- **Tech:** Spring Boot, MySQL, Spring Security, Hibernate
+- **Highlights:** JWT authentication, REST API, email notification module
+- 🔗 [View Repository](#)
+
+---
+
+### 🌐 Blog Platform — Django
+> A simple content management platform with user authentication and markdown support.
+
+- **Tech:** Python, Django, SQLite, Bootstrap
+- **Highlights:** CRUD for posts, user registration & login, admin panel
+- 🔗 [View Repository](#)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Toan-LD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Toan-LD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Toan-LD&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph" />
+</div>
+
+<br/>
+
+## 🤝 Connect with Me
+
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/fa2k31no1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fa2k31no1/" height="30" width="40" /></a>
+  <a href="mailto:toanld392003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/fa2k31no1/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toan-LD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Toan-LD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Toan-LD&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-###
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
